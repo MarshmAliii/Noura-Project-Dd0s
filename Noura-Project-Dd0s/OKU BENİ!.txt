@@ -1,0 +1,18 @@
+Noura Project
+
+
+Kurulum!
+
+
+pip install argparse
+python flood.py -i ipadresi -p port -t 60 -th 75000
+
+
+İp Bulma!
+
+https://www.ipsorgu.com/
+
+https://hidemy.io/tr/port-scanner/
+
+
+Discord.gg/noura
